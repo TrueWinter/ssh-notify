@@ -1,9 +1,10 @@
+// This is my first time writing code in Go. This code may be terrible, but it works.
 package main
 
 import (
-    "encoding/json"
-    "os"
-    "fmt"
+	"encoding/json"
+	"os"
+	"fmt"
 	"flag"
 
 	"github.com/disgoorg/disgo/webhook"
